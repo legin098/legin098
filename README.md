@@ -7,6 +7,11 @@ const legin098 = {
   tools: [React, Storybook, Styled-Components, Jest],
 }
 ```
+You can find me 🌎:
+- [Twitter](https://twitter.com/legin098)
+- [Instagram](https://www.instagram.com/jesuscruzsuarez)
+- [Mail](cruzsuarezjesusantonio@gmail.com)
+
 <!--
 **legin098/legin098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
