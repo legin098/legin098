@@ -10,7 +10,7 @@
 const legin098 = {
  pronouns: "he" | "him",
  code: [Javascript, HTML, CSS, Java,],
- tools: [React, Storybook, Styled-Components, Jest],
+ tools: [React, Storybook, Styled-Components]
 }
 
 ```
