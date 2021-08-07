@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+```js
+const legin098 = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Java,],
+  tools: [React, Storybook, Styled-Components, Jest],
+}
+```
 <!--
 **legin098/legin098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
