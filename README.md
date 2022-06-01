@@ -24,7 +24,7 @@ const legin098 = {
 <h2 align="center">Puedes encontrarme 🌎:</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jesus-antonio-cruz-suarez-458b0323b/">
+  <a href="https://www.linkedin.com/in/jesusantoniocruzsuarez/">
     <img align="center" alt="legin098 | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
 
