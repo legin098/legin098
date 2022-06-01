@@ -1,6 +1,6 @@
 <h1 align="center">Hola mundo 👋, mi nombre es Jesus Cruz 👨‍💻</h1>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" width="40%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <br>
 <h2 align="center">Sobre mí en código 💻:</h2>
