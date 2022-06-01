@@ -1,4 +1,4 @@
-<h1 align="center">Hola mundo 👋, mi nombre es Jesus Cruz 👨‍💻</h1>
+<h1 align="center">Hola mundo 👋, mi nombre es Jesus Cruz 👨</h1>
 
 <img align="right" width="50%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
@@ -47,6 +47,6 @@ const legin098 = {
 <h2 align="center">Actividad 👨🏼‍💻:</h2>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=legin098&show_icons=true&hide_border=true" />
+ <img width="40%" src="https://github-readme-stats.vercel.app/api?username=legin098&show_icons=true&hide_border=true" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legin098&layout=compact&hide_border=true" /> 
 </div>
