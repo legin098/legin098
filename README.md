@@ -9,8 +9,8 @@
 
 const legin098 = {
  pronombres: "el" | "a el",
- lenguajes: [CSS, HTML, Java, Javascript, TypeScript],
- Herramientas: [BonitaSoft, Material-Ui, React, TailwindCss]
+ lenguajes:[CSS, HTML, Java, JavaScript, TypeScript],
+ Herramientas:[BonitaSoft, Material-Ui, React, TailwindCss]
 }
 
 ```
