@@ -18,7 +18,7 @@ const legin098 = {
 <h2 align="center">Actualmente estoy aprendiendo 📖:</h2>
 
 <p align="center"><i>- NodeJs</i></p>
-<p align="center"><i>- VueJs</i></p>
+<p align="center"><i>- React Native</i></p>
 <p align="center"><i>- Django</i></p>
 
 <h2 align="center">Puedes encontrarme 🌎:</h2>
@@ -26,11 +26,6 @@ const legin098 = {
 <div align="center">
   <a href="https://www.linkedin.com/in/jesusantoniocruzsuarez/">
     <img align="center" alt="legin098 | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-
-  <a href="https://twitter.com/legin098">
-    &nbsp
-    <img align="center" alt="legin098 | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
  
   <a href="https://www.instagram.com/jesuscruzsuarez">
