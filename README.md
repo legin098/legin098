@@ -42,6 +42,6 @@ const legin098 = {
 <h2 align="center">Actividad 👨🏼‍💻:</h2>
 
 <div align="center">
- <img width="40%" src="https://github-readme-stats.vercel.app/api?username=legin098&count_private=true&show_icons=true&hide_border=true" />
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=legin098&count_private=true&show_icons=true&hide_border=true" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legin098&hide_border=true&layout=compact" /> 
 </div>
