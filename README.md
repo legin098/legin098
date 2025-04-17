@@ -1,47 +1,38 @@
-<h1 align="center">Hola mundo 👋, mi nombre es Jesus Cruz 👨</h1>
+<h1 align="center">Hi there 👋, I'm Jesús Cruz Suárez</h1>
 
-<img align="right" width="50%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<p align="center">
+  <strong>Mobile Developer | iOS & Cross-platform Specialist</strong><br/>
+  Building robust and scalable apps with Swift, React Native, and modern architecture principles.
+</p>
 
-<br>
-<h2 align="center">Sobre mí en código 💻:</h2>
+---
 
-```js
+## 🧑‍💻 About Me
 
-const legin098 = {
- pronombres: "el" | "a el",
- lenguajes:[CSS, HTML, Java, JavaScript, Python],
- Herramientas:[BonitaSoft, MUi, React, TailwindCss]
-}
+I'm a **Mobile Developer** focused on building high-quality applications for the health, finance, and environmental sectors. I create scalable and maintainable codebases by applying **Clean Architecture**, **MVVM**, and **SOLID principles** from the ground up.
 
-```
-<br>
-<h2 align="center">Actualmente estoy aprendiendo 📖:</h2>
+I've led the development of native iOS applications using **SwiftUI** and integrated systems like **HealthKit**, **Apple Watch**, and **biometric authentication** (Face ID, Touch ID). I’ve also built cross-platform apps with **React Native**, implementing features such as onboarding, real-time chat, AI voice assistants, and secure payment systems with **Apple Pay** and **Google Pay**.
 
-<p align="center"><i>- NodeJs</i></p>
-<p align="center"><i>- React Native</i></p>
-<p align="center"><i>- Django</i></p>
+My workflow incorporates **test-driven development**, **accessibility standards**, and **CI/CD automation** using **Fastlane** and **GitLab**, ensuring quality and consistency at every stage of delivery.
 
-<h2 align="center">Puedes encontrarme 🌎:</h2>
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jesusantoniocruzsuarez/">
-    <img align="center" alt="legin098 | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
- 
-  <a href="https://www.instagram.com/jesuscruzsuarez">
-    &nbsp
-    <img align="center" alt="legin098 | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
- 
-  <a href="mailto:cruzsuarezjesusantonio@gmail.com">
-    &nbsp
-    <img align="center" alt="legin098 | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-</div>
+## 🚀 Tech Stack
 
-<h2 align="center">Actividad 👨🏼‍💻:</h2>
+### Languages & Frameworks
+- **Mobile:** Swift, SwiftUI, React Native
+- **Web:** ReactJS, HTML, CSS, Bootstrap, TailwindCSS
+- **Backend / Others:** Node.js, TypeScript, JavaScript
 
-<div align="center">
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=legin098&count_private=true&show_icons=true&hide_border=true" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legin098&hide_border=true&layout=compact" /> 
-</div>
+### Tools & Platforms
+- **Testing:** XCTest, Jest, React Native Testing Library
+- **Architecture:** Clean Architecture, MVVM, SOLID
+- **DevOps:** Fastlane, GitLab CI/CD, Git Hooks
+- **Cloud & DB:** AWS Amplify, AWS Cognito, Firebase, MongoDB, MySQL
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jesusantoniocruzsuarez/)
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:cruzsuarezjesusantonio@gmail.com)
